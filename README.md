@@ -6,3 +6,4 @@ To get the AutoMod Max modules, open the "get-modules.bat" application. You will
 
 **- Where can I get support?**
 To get support, join the discord.gg/galaxytech server, then open the support session, in Portuguese: Atendimento and select the "Outros" option.
+![automod_header](https://github.com/user-attachments/assets/df007c3b-e74f-433a-b68e-087ac9cdd39b)
