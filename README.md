@@ -1,10 +1,7 @@
-# AutoMod Max - A Discord Module
-Automod Max is a module for Discord servers to have more security in blocking swear words!
+# AutoMod Max - A Galaxy Module
+AutoMod Max is a module made by Galaxy Tech for large servers, which do not have the capacity to have a good staff team, the module works as a plug-in, is attached to the server settings, and is highly functional for Portuguese and English.
 
 **- How to get the modules?**
-To get the AutoMod Max modules, open the "password.txt" file. With this password, open "unlock-modules.bat", and enter the password, quickly, the module will be delivered successfully, then, just add these words to the normal AutoMod, and your module will already be working.
-
-**- Where can I get support?**
-To get support, join the discord.gg/galaxytech server, then open the support session, in Portuguese: Atendimento and select the "Outros" option.
+To get the module, it's easy, go to Releases, and look for the latest version of our plugin, scroll down the page and download the two .txt files, inside them, you can copy the modules and attach them to the native AutoMod system.
 
 ![automod_header](https://github.com/user-attachments/assets/df007c3b-e74f-433a-b68e-087ac9cdd39b)
